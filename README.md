@@ -5,8 +5,8 @@ Simple battle ships game made in python using pygame
 ## Running the game
 
 * clone the repo
-* if on Windows, maybe you should replace path separators from '/' to '\\'
-* run `python battle_game.py'
+* if on Windows, maybe you should replace path separators from `/` to `\\`
+* run `python battle_game.py`
 
 ## Rules
 
