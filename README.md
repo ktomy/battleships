@@ -2,6 +2,9 @@
 
 Simple battle ships game made in python using pygame
 
+![image](https://github.com/user-attachments/assets/29b03059-696b-42e6-a6db-2e7a98d2c45b)
+
+
 ## Running the game
 
 * clone the repo
